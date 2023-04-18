@@ -1,0 +1,15 @@
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\bin\Debug\net6.0\4 -DeverTabuada.exe
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\bin\Debug\net6.0\4 -DeverTabuada.deps.json
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\bin\Debug\net6.0\4 -DeverTabuada.runtimeconfig.json
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\bin\Debug\net6.0\4 -DeverTabuada.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\bin\Debug\net6.0\4 -DeverTabuada.pdb
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\4 -DeverTabuada.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\4 -DeverTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\4 -DeverTabuada.AssemblyInfoInputs.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\4 -DeverTabuada.AssemblyInfo.cs
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\4 -DeverTabuada.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\4 -DeverTabuada.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\refint\4 -DeverTabuada.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\4 -DeverTabuada.pdb
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\4 -DeverTabuada.genruntimeconfig.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\4 -DeverTabuada\obj\Debug\net6.0\ref\4 -DeverTabuada.dll
