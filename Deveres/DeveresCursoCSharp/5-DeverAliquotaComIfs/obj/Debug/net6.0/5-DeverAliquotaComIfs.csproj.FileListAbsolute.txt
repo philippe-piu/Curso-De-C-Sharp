@@ -1,0 +1,15 @@
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\bin\Debug\net6.0\5-DeverAliquotaComIfs.exe
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\bin\Debug\net6.0\5-DeverAliquotaComIfs.deps.json
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\bin\Debug\net6.0\5-DeverAliquotaComIfs.runtimeconfig.json
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\bin\Debug\net6.0\5-DeverAliquotaComIfs.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\bin\Debug\net6.0\5-DeverAliquotaComIfs.pdb
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\5-DeverAliquotaComIfs.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\5-DeverAliquotaComIfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\5-DeverAliquotaComIfs.AssemblyInfoInputs.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\5-DeverAliquotaComIfs.AssemblyInfo.cs
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\5-DeverAliquotaComIfs.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\5-DeverAliquotaComIfs.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\refint\5-DeverAliquotaComIfs.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\5-DeverAliquotaComIfs.pdb
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\5-DeverAliquotaComIfs.genruntimeconfig.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\5-DeverAliquotaComIfs\obj\Debug\net6.0\ref\5-DeverAliquotaComIfs.dll

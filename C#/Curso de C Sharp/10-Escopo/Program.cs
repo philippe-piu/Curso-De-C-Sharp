@@ -8,6 +8,7 @@ class Programa
 
         int idade = 18;
         bool responsavel = true;
+        //Como eu declarei ele aqui ele po ser usado por todo o codigo principal
         string texto;
 
         if(responsavel = true)
