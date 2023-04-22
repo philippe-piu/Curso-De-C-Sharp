@@ -5,17 +5,20 @@ class Programa
 {
     static void Main(string[] args)
     {
-        int numero = 10;
-        int i;
-        int multiplicacao;
+        Console.WriteLine("Projeto 8 - Consicionais IF ELSE\n");
+        int idade = 17;
 
-        Console.WriteLine("Tabuada do " + numero);
-
-        for(i = 1; i <= 10; i++)
+        if (idade >= 18)
         {
-            multiplicacao = numero * i;
-            Console.WriteLine(+numero +" x " +i +" = "+multiplicacao);
+            Console.WriteLine("Maior de idade");
+            Console.WriteLine("Você Pode entrar na Festa");
         }
+        else
+        {
+            Console.WriteLine("Menor de idade");
+            Console.WriteLine("Você não pode entrar na festa");
+        }
+
         Console.WriteLine("Aperte a tecla enter para fechar......");
         Console.ReadLine();
     }
