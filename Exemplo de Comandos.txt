@@ -1,2 +1,2 @@
-Faz a leitura de valor informado pelo o usuario e armazena na variávelo int.Parse converte uma String para um número inteiro tipo "42" ta como string vira 42 inteiro
-Variável opcao = int.Parse(Console.ReadLine());
+Faz a leitura de valor informado pelo o usuario e armazena na variávelo int.Parse converte uma String para um número inteiro tipo "42" ta como string vira 42 inteiro.
+Exemplo: Variável opcao = int.Parse(Console.ReadLine());

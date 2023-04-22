@@ -13,8 +13,10 @@ class Programa
         int opcao = 0;
 
         Console.WriteLine("Esolha um número de 1 a 12 \n");
+
         //Faz a leitura de valor informado pelo o usuario
         opcao = int.Parse(Console.ReadLine());
+
         Console.WriteLine("Número escolhido é: " + opcao);
         switch (opcao)
         {
