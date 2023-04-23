@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\Deveres\\DeveresCursoCSharp\\2-Dever\\2-Dever.csproj": {}
+    "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\C# explorando a linguagem\\Deveres\\DeveresCursoCSharp\\2-Dever\\2-Dever.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\Deveres\\DeveresCursoCSharp\\2-Dever\\2-Dever.csproj": {
+    "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\C# explorando a linguagem\\Deveres\\DeveresCursoCSharp\\2-Dever\\2-Dever.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\Deveres\\DeveresCursoCSharp\\2-Dever\\2-Dever.csproj",
+        "projectUniqueName": "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\C# explorando a linguagem\\Deveres\\DeveresCursoCSharp\\2-Dever\\2-Dever.csproj",
         "projectName": "2-Dever",
-        "projectPath": "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\Deveres\\DeveresCursoCSharp\\2-Dever\\2-Dever.csproj",
+        "projectPath": "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\C# explorando a linguagem\\Deveres\\DeveresCursoCSharp\\2-Dever\\2-Dever.csproj",
         "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\Deveres\\DeveresCursoCSharp\\2-Dever\\obj\\",
+        "outputPath": "C:\\Users\\phili\\OneDrive\\Documentos\\GitHub\\Curso-De-C-Sharp\\C# explorando a linguagem\\Deveres\\DeveresCursoCSharp\\2-Dever\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

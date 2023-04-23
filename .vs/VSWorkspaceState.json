@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\C#",
-    "\\C#\\Curso de C Sharp",
-    "\\Deveres",
-    "\\Deveres\\DeveresCursoCSharp"
+    "\\C# orientação a objetos",
+    "\\C# orientação a objetos\\C#",
+    "\\C# orientação a objetos\\C#\\C1-ByteBank"
   ],
-  "SelectedNode": "\\Deveres\\DeveresCursoCSharp\\7-Fatorial",
+  "SelectedNode": "\\C# orientação a objetos\\C#\\C1-ByteBank",
   "PreviewInSolutionExplorer": false
 }
