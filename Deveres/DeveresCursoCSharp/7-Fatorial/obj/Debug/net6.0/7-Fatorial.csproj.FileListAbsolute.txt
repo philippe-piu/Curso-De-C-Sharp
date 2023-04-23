@@ -1,0 +1,15 @@
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\bin\Debug\net6.0\7-Fatorial.exe
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\bin\Debug\net6.0\7-Fatorial.deps.json
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\bin\Debug\net6.0\7-Fatorial.runtimeconfig.json
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\bin\Debug\net6.0\7-Fatorial.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\bin\Debug\net6.0\7-Fatorial.pdb
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\7-Fatorial.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\7-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\7-Fatorial.AssemblyInfoInputs.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\7-Fatorial.AssemblyInfo.cs
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\7-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\7-Fatorial.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\refint\7-Fatorial.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\7-Fatorial.pdb
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\7-Fatorial.genruntimeconfig.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\7-Fatorial\obj\Debug\net6.0\ref\7-Fatorial.dll

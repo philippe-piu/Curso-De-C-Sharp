@@ -1,0 +1,15 @@
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\bin\Debug\net6.0\6-DeverMultiplosDeTres.exe
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\bin\Debug\net6.0\6-DeverMultiplosDeTres.deps.json
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\bin\Debug\net6.0\6-DeverMultiplosDeTres.runtimeconfig.json
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\bin\Debug\net6.0\6-DeverMultiplosDeTres.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\bin\Debug\net6.0\6-DeverMultiplosDeTres.pdb
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\6-DeverMultiplosDeTres.csproj.AssemblyReference.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\6-DeverMultiplosDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\6-DeverMultiplosDeTres.AssemblyInfoInputs.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\6-DeverMultiplosDeTres.AssemblyInfo.cs
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\6-DeverMultiplosDeTres.csproj.CoreCompileInputs.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\6-DeverMultiplosDeTres.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\refint\6-DeverMultiplosDeTres.dll
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\6-DeverMultiplosDeTres.pdb
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\6-DeverMultiplosDeTres.genruntimeconfig.cache
+C:\Users\phili\OneDrive\Documentos\GitHub\Curso-De-C-Sharp\Deveres\DeveresCursoCSharp\6-DeverMultiplosDeTres\obj\Debug\net6.0\ref\6-DeverMultiplosDeTres.dll
